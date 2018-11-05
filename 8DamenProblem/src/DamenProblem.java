@@ -29,6 +29,7 @@ public class DamenProblem {
 		Schachbrett sb = new Schachbrett();
 		sb.komplettiereStellung(EINS);
 		System.out.println("Es wurden " + sb.loesungen + " Lösungen gefunden!");
+		System.out.println("Hello Git!");
 	}
 	
 	public void test() {
